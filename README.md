@@ -1,5 +1,5 @@
 # Marketing Strategy Enhancement with Data Science
-
+[Results & Discussion](https://github.com/JoaoCA98/Marketing-Strategy-Enhancement-With-Data-Science/blob/main/Strategic_approach_after_pandemic_the%20Portuguese_tourism_market.pptx)
 ## Project Context
 
 In the wake of the Covid-19 pandemic and its profound impact on the global tourism industry, the Portuguese National Tourism Board Organization (PT – NTBO) seeks to revitalize its marketing strategies. By harnessing the power of Data Science, the organization aims to develop innovative approaches that will elevate Portugal's tourism industry to new heights.
